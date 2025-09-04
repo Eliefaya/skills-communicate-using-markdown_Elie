@@ -1,31 +1,3 @@
 # <h1> prueba
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-I added a Header
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
